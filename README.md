@@ -1,5 +1,5 @@
 # ResBaz cookbook
 
-This "Cookbook" was used for the ResBaz 2016 event. See [here](https://www.gitbook.com/book/heydejan/resbaz-cookbook/details) for the 2017 ResBaz cookbook.
+This "Cookbook" serves as an asset repository for the annual Research Bazaar in Tucson, Arizona.
 
-Please head to the wiki (see link in right hand panel) for details.
+It is currently light on ingredients and recipes, but there is at the very least, a list of [URIs](LINKS.md) that may be useful.
